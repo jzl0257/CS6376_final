@@ -1,6 +1,6 @@
 # CS6376_final
 # Software Version:
-MatLab version: Versions after MatLab 2020 are preferred.
+MatLab version: Versions after MatLab 2020 are preferred.\n
 Simscape(TM) Multibody(TM) version: 7.1.
 SolidWorks version: 2020.
 
