@@ -11,7 +11,7 @@ SolidWorks version: 2020.
 
 1.Clone the code to a local repository
 
-2.Open the fold in MatLab
+2.Open the folder in MatLab
 
 3.Run the inv_pen_DataFile.m file
 
